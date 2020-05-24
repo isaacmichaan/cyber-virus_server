@@ -1,3 +1,4 @@
+# After client connect to server, we can set a command for client to return (like passwd)
 #!/usr/bin/env python3
 import socket
 
